@@ -1,2 +1,2 @@
-# "Refactoring UI" (Adam Wathan e Steve Schoger; 2018)
-Imagens do livro "Refactoring UI"
+# Refactoring UI
+Exemplos do livro *Refactoring UI*, separados por capítulo.
