@@ -1,5 +1,5 @@
 # Refactoring UI - Exemplos
-Exemplos do livro *Refactoring UI* (Adam Wathan e Steve Schoger, 2018), separados por capítulo.
+Exemplos do livro *Refactoring UI* (Adam Wathan e Steve Schoger, 2018), por capítulo.
 ## Capítulos
 2. [Hierarchy is everything](exemplos/2_hierarchy-is-everything)
 3. [Layout and spacing](exemplos/3_layout-and-spacing)
